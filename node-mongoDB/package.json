@@ -1,0 +1,16 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "learn to connect mongoDB with nodeJS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "author": "Abhinav Upadhyay",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.5.0"
+  }
+}
